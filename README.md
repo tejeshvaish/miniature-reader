@@ -19,3 +19,9 @@ To Read text (text to speech)
 
 ` pip install pyttsx3 
 `
+
+### Lastly
+
+To use it, download .py file and run it using 
+` python3 file.py
+`
