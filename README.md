@@ -8,8 +8,10 @@ First, we need to install a python libaries, use these commands
 To Read pdf files using python
 ` pip install pypdf2  
 `
+
 To Read text (text to speech) 
 ` pip install pyaudio 
 `
+
 ` pip install pyttsx3 
 `
